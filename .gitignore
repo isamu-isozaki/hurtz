@@ -1,0 +1,11 @@
+*/__pycache__/*
+*.egg-info/*
+.vscode/*
+*/.vscode/*
+__pycache__/*
+*/*/__pycache__/*
+*/__pycache__/*.pyc
+
+*.pyc
+*.csv
+*.txt
